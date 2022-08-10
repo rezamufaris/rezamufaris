@@ -27,4 +27,5 @@ I'm Muhammad Fahreza Mufaris. Informatics Student at Bhayangkara Jakarta Raya Un
 
 ## Stats
 [![Fahreza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezamufaris&show_icons=true&theme=tokyonight)](https://github.com/rezamufaris)
+
 [![Fahreza's GitHub Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rezamufaris&show_icons=true&theme=tokyonight)](https://github.com/rezamufaris)
