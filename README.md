@@ -41,12 +41,6 @@ With a background in Computer Science, I work across **UI/UX Design, Product Des
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
-### 🧪 QA & Productivity
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
 
 ## 🔗 Social Media
 
